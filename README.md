@@ -1,6 +1,8 @@
 ## Délcio Silva
 I am a High School Coding Student
-Technologies that i'm learning: 
+<br>
+
+## Technologies that i'm learning: 
 
 ### Design:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
